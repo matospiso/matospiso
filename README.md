@@ -1,6 +1,7 @@
 👋 Hi, I’m @matospiso
 - MSc. Mathematics for Information Technologies @ [Charles University](https://www.mff.cuni.cz/en)
-- ML Engineer and researcher @ [GLAMI](https://glami.group/)
+- Applied Scientis @ [Recombee](https://www.recombee.com/)
+- ex ML Engineer @ [GLAMI](https://glami.group/)
 
 I'm interested in:
 - 🛍️ recommender systems (candidate retrieval - large-scale, collaborative & hybrid)
