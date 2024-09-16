@@ -1,6 +1,6 @@
 👋 Hi, I’m @matospiso
 - MSc. Mathematics for Information Technologies @ [Charles University](https://www.mff.cuni.cz/en)
-- Applied Scientis @ [Recombee](https://www.recombee.com/)
+- Applied Scientist @ [Recombee](https://www.recombee.com/)
 - ex ML Engineer @ [GLAMI](https://glami.group/)
 
 I'm interested in:
